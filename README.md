@@ -1,1 +1,1 @@
-# stock-app
+python3 --version
